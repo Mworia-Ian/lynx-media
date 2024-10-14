@@ -1,5 +1,6 @@
-import crew1 from "../img/home/crew1.png";
 import woman from "../img/home/woman.png"
+import dance from "../img/about/dance.jpg";
+
 import { Link } from "react-router-dom";
 
 const Home = () => {
@@ -16,7 +17,7 @@ const Home = () => {
           </div>
           <div className="flex justify-end max-h-96 lg:max-h-max">
             <div className="relative lg:-right-40 overflow-hidden">
-            <img src={woman} alt="Crew"/>
+            <img src={woman} alt="dance"/>
             </div>
           </div>
         </div>
