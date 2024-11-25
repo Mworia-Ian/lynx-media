@@ -28,7 +28,9 @@ const About = () => {
           exit={{ opacity: 0, y: '-80%' }}
           transition={transition1}
           className="flex-1 pt-36 pb-14 lg:pt-0 lg:w-auto z-10 flex flex-col justify-center items-center lg:items-start mt-80">
+
             <h1 className="h1">About Us</h1>
+            
             <p className="mb-10 max-w-sm">
               Mambo Stranger😃.…we are a bunch of adults who play with cameras,
               lenses, and light to create beauty! Sometimes we ask
